@@ -1,0 +1,7 @@
+---LOG
+Enregistrer toute manipulation de rechereche, contacter , sauver des offfre
+i l'utilisateur n'est pas LOGGE => on tente de recuperer lemax d'infovia le cloud...
+
+---
+
+
